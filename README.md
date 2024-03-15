@@ -36,4 +36,22 @@ Most common statements are:
 ## <v></v> <div align="left"> Answering Questions: <div/> 
 We are then given a list of questions in order to answer from the dataset. We pull data using the SQL statements to get the answer to the questions which are:
 
+1# Using count, get the number of cities in the USA​
+
+2# Find out what the population and average life expectancy for people in Argentina (ARG) is.​
+
+3# Using ORDER BY, LIMIT, what country has the highest life expectancy?
+
+4# Select 25 cities around the world that start with the letter 'F' in a single SQL query.​
+
+5# Display columns Id, Name, Population and limit results to first 10 rows.
+
+6# Find only those cities whose population is larger than 2000000.​
+
+7# Find all city names from city table whose name begins with “Be” prefix.​
+
+8# Find only those cities whose population is between 500000-1000000.
+
+9# Find a city with the lowest population in the city table.
+
 ## <v></v> <div align="left"> Documentation: <div/> 
